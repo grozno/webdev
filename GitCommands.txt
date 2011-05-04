@@ -6,7 +6,7 @@
     `git add [file1, file2, file3, ...]` [Enter]
   * Create a commit which can be pushed to the remote you just added
     `git commit -m 'added new files'` [Enter]
-  * Push the commit the remote
+  * Push the commit to the remote
     `git push [remote name] master` [Enter]
      git push origin master
 
